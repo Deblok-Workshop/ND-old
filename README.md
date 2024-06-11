@@ -1,11 +1,5 @@
-### The state of New Deblok:
-
-- Total: ~90% complete
-- DeblokManager: 100% complete, nothing needs work in this area
-- Backend: 100% complete, This probably says 100% but rare's still cookin the backend.
-- Frontend: 85% done, need finishing touches & settings needs work
-- Backend Proxies: 100% done, nothing needs work in this area
-
+# IMPORTANT
+This is the **old** version of NewDeblok that, is (mostly) stable, is able to be **selfhosted**, you will not recieve any support for this. Check out the rewrite at https://deblok.link/newdeblok. This is the **deployable** version.
 ---
 
 # <img src="assets/banner.png" alt="banner" width="448">
